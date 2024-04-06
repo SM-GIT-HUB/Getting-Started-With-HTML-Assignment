@@ -1,0 +1,16 @@
+What is  HTML tags?
+
+--> HTML tags are some keywords, that are used to format normal text and defines how browser should render them. There are large number of tags in HTML.
+--------------------------------------------
+
+What is HTML element?
+
+--> An HTML tag, along with the content within it, together is called an HTML element.
+--------------------------------------------
+
+Example:
+
+--> <p> My name is Soumik </p>
+Here, "<p>" is the openning paragraph tag and inside that, "My name is Soumik" is some data or content, that is being formatted by the paragraph tag. And </p> is closing paragraph tag.
+
+Together they are called an HTML element. 

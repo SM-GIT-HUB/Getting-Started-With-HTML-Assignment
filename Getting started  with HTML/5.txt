@@ -1,0 +1,5 @@
+What is DOCTYPE declaration in HTML?
+
+--> The DOCTYPE declaration looks something like a tag. But it can't be called a tag because it doesn't format any content or text. It just provides an information to the browser about what kind of document to expect.
+
+Also to be noted, the DOCTYPE declaration is not case sensitive. <!DOCTYPE html> <!DocTYPE html>

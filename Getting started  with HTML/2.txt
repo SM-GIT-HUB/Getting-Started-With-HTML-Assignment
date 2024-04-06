@@ -1,0 +1,8 @@
+Purpose of comments in HTMl and how to use them?
+
+--> A Comment is a string of code that can not be seen or followed up on by the program or viewer. It is basically built into the code to give data about that code or other input from the code designers. We use them to increase readabilty of the code, for fellow programmers.
+
+In HTML, if we need to write a comment, we use this: "<!-- -->".
+The syntax is:  <!-- "Your comment" -->
+
+Comments are very important and we should use them when there is complexity in a code or a large code.
